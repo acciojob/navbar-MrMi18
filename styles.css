@@ -15,8 +15,9 @@ ul>li{
 	padding:18px  27px;
 	font-size:18px;
 	border-right:2px solid white;
+	cursor:pointer;
 }
 li:hover{
 	background-color:#b90e4d;
-	cursor:pointer;
+	
 }
